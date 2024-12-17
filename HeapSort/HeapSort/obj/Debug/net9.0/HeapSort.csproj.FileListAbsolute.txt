@@ -1,0 +1,14 @@
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\bin\Debug\net9.0\HeapSort.exe
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\bin\Debug\net9.0\HeapSort.deps.json
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\bin\Debug\net9.0\HeapSort.runtimeconfig.json
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\bin\Debug\net9.0\HeapSort.dll
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\bin\Debug\net9.0\HeapSort.pdb
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\obj\Debug\net9.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\obj\Debug\net9.0\HeapSort.AssemblyInfoInputs.cache
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\obj\Debug\net9.0\HeapSort.AssemblyInfo.cs
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\obj\Debug\net9.0\HeapSort.csproj.CoreCompileInputs.cache
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\obj\Debug\net9.0\HeapSort.dll
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\obj\Debug\net9.0\refint\HeapSort.dll
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\obj\Debug\net9.0\HeapSort.pdb
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\obj\Debug\net9.0\HeapSort.genruntimeconfig.cache
+D:\LEVEL 3 (1)\Algorithms\Tasks\HeapSort\HeapSort\obj\Debug\net9.0\ref\HeapSort.dll
